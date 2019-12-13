@@ -1,6 +1,4 @@
 eigenvectors.npy
 eigenvalues.npy
-images/Test
-images/Train
-PCA-based_face_recognition_project.pdf
-PCA_face.pdf
+eigenface_for_submission.zip
+
